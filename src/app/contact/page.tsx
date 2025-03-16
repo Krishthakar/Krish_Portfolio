@@ -6,7 +6,7 @@ export default function Contact() {
     <div className="min-h-screen bg-gray-900 text-white">
       <Navbar />
       <div className="max-w-4xl mx-auto p-10 text-center">
-        <h2 className="text-4xl font-bold text-blue-400 mb-6">Let's Connect</h2>
+        <h2 className="text-4xl font-bold text-blue-400 mb-6">Let&apos;s Connect</h2>
         <p className="text-lg text-gray-300">
           Feel free to reach out via **email** or connect with me on **LinkedIn & GitHub**.
         </p>

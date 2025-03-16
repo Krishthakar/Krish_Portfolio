@@ -27,11 +27,11 @@ export default function Home() {
         {/* Left Side - Text Content */}
         <div className="md:w-1/2 space-y-4" data-aos="fade-right">
           <h1 className="text-5xl md:text-7xl font-bold">
-            Hello, It's Me <br />
+            Hello, It&apos;s Me <br />
             <span className="text-cyan-400">Krish Thakar</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-300">
-            And I'm a <span className="text-cyan-400 font-semibold">Frontend Developer</span>
+            And I&apos;m a <span className="text-cyan-400 font-semibold">Frontend Developer</span>
           </p>
           <p className="text-lg text-gray-400">
             Specializing in <strong>React.js, Next.js, Tailwind CSS</strong>, and <strong>JavaScript</strong>, I build modern, interactive, and scalable web applications.
@@ -331,7 +331,7 @@ export default function Home() {
       <FontAwesomeIcon icon={faEnvelope} className="text-blue-400 text-3xl" />
       <div>
         <h3 className="text-xl font-bold text-white">Email Me</h3>
-        <p className="text-gray-400 text-sm">Let's talk about your project</p>
+        <p className="text-gray-400 text-sm">Let&apos;s talk about your project</p>
         <Link href="mailto:krishthakar198@gmail.com" className="text-blue-400 text-sm hover:underline">
           krishthakar198@gmail.com
         </Link>
@@ -343,7 +343,7 @@ export default function Home() {
       <FontAwesomeIcon icon={faLinkedin} className="text-blue-500 text-3xl" />
       <div>
         <h3 className="text-xl font-bold text-white">LinkedIn</h3>
-        <p className="text-gray-400 text-sm">Let's connect professionally</p>
+        <p className="text-gray-400 text-sm">Let&apos;s connect professionally</p>
         <Link href="https://www.linkedin.com/in/krish-thakar-489120244/" target="_blank" className="text-blue-400 text-sm hover:underline">
           View Profile
         </Link>
@@ -366,8 +366,8 @@ export default function Home() {
     <div className="bg-gray-800 p-6 rounded-lg shadow-md border border-yellow-400 flex items-center space-x-3" data-aos="fade-up">
       <FontAwesomeIcon icon={faMugHot} className="text-yellow-400 text-3xl" />
       <div>
-        <h3 className="text-xl font-bold text-white">Let's Connect</h3>
-        <p className="text-gray-400 text-sm">Let's discuss ideas over coffee</p>
+        <h3 className="text-xl font-bold text-white">Let&apos;s Connect</h3>
+        <p className="text-gray-400 text-sm">Let&apos;s discuss ideas over coffee</p>
         <Link 
          
         href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Meeting+with+Krish+Thakar&details=Let's+discuss+new+opportunities!&location=Google+Meet&dates=20250320T140000Z/20250320T150000Z" 
@@ -384,7 +384,7 @@ export default function Home() {
 
   {/* Footer Call-to-Action */}
   <p className="text-center text-gray-400 mt-8">
-  Innovation starts with a conversation! Whether it’s a project, a discussion, or just a quick hello, I’m always open to new possibilities.
+  Innovation starts with a conversation! Whether it&apos;s a project, a discussion, or just a quick hello, I&apos;m always open to new possibilities.
   </p>
 
   <div className="flex justify-center mt-6">

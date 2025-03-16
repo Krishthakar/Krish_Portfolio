@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Left Content */}
       <div className="w-full md:w-1/2 space-y-6 text-center md:text-left">
         <h1 className="text-5xl md:text-7xl font-bold leading-tight">
-          Hi, I'm <span className="text-blue-500">Krish Thakar</span>
+          Hi, I&apos;m <span className="text-blue-500">Krish Thakar</span>
         </h1>
         <p className="text-lg md:text-xl text-gray-300">
           🚀 Aspiring <strong>Front-End Developer & UI/UX Designer</strong> passionate about crafting clean, modern,

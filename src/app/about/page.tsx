@@ -22,7 +22,7 @@ export default function About() {
         <div className="w-full md:w-2/3 mt-8 md:mt-0 md:pl-10">
           <h2 className="text-4xl font-bold mb-6 text-blue-400">About Me</h2>
           <p className="text-lg leading-relaxed text-gray-300">
-            I'm a passionate <span className="text-blue-300 font-semibold">Front-End Developer</span> with expertise in 
+            I&apos;m a passionate <span className="text-blue-300 font-semibold">Front-End Developer</span> with expertise in 
             <span className="text-blue-300 font-semibold"> React.js, JavaScript, Node.js, and UI/UX design</span>. 
             My goal is to build <span className="text-blue-300 font-semibold">interactive and responsive web applications</span>.
           </p>

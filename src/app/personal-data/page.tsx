@@ -13,7 +13,7 @@ export default function PersonalData() {
         <section className="mb-8">
           <h3 className="text-2xl font-semibold text-blue-300">Bio</h3>
           <p className="mt-2 text-lg text-gray-300">
-            Hi, I'm <span className="text-blue-400 font-semibold">Krish Thakar</span>, a passionate full-stack developer with expertise in **JavaScript, TypeScript, React.js, and Node.js**.
+            Hi, I&apos;m <span className="text-blue-400 font-semibold">Krish Thakar</span>, a passionate full-stack developer with expertise in **JavaScript, TypeScript, React.js, and Node.js**.
           </p>
         </section>
 
