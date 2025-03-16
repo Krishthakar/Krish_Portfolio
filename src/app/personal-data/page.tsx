@@ -45,7 +45,7 @@ export default function PersonalData() {
         <section className="mb-8">
           <h3 className="text-2xl font-semibold text-blue-300">Career Philosophy</h3>
           <p className="mt-2 text-lg italic text-gray-400">
-            "We are the facilitators of our own creative evolution." – Bill Hicks
+          &quot;We are the facilitators of our own creative evolution.&quot; – Bill Hicks
           </p>
           <p className="mt-4 text-gray-300">
             I believe in **continuous learning, problem-solving, and innovation**. My goal is to develop solutions that make technology more accessible and impactful.

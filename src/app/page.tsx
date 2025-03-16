@@ -281,7 +281,7 @@ export default function Home() {
             Resume
           </h3>
           <p className="text-gray-400 italic mt-2">
-            "Your resume is your personal brand—make it compelling, make it powerful, and let it open doors to your dream job."
+          &quot;Your resume is your personal brand—make it compelling, make it powerful, and let it open doors to your dream job.&quot;
           </p>
           <Link 
             href="/Krish_Resume.pdf" 
